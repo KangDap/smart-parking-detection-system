@@ -4,6 +4,15 @@ Sistem Pendeteksi Slot Parkir (SPDS) adalah sebuah aplikasi berbasis web yang di
 
 ---
 
+## Anggota Kelompok
+| NPM                    | Nama                     |
+|------------------------|--------------------------|
+| 140810230008           | Robby Azwan Saputra      |
+| 140810230014           | Muhammad Zahran Muntazar |
+| 140810230022           | Dafa Ghani Abdul Rabbani |
+
+---
+
 ## Tujuan
 
 Membangun sistem otomatis berbasis gambar yang mampu:
@@ -41,4 +50,4 @@ Membangun sistem otomatis berbasis gambar yang mampu:
 2. **Jalankan aplikasi Streamlit**
    ```bash
    streamlit run app.py
-3. **Upload gambar parkiran (bisa dari folder test-img)**
+3. **Upload gambar parkiran (bisa dari folder [test_img](test_img))**
