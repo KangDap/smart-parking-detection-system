@@ -2,6 +2,8 @@
 
 Sistem Pendeteksi Slot Parkir (SPDS) adalah sebuah aplikasi berbasis web yang dikembangkan menggunakan **Streamlit** dan **Convolutional Neural Network (CNN)** untuk mendeteksi apakah slot parkir dalam gambar terisi atau kosong. Sistem ini mendeteksi tiap slot parkir berdasarkan koordinat yang telah didefinisikan dan menampilkan hasilnya secara visual.
 
+Dataset yang digunakan untuk melatih model berasal dari dataset [PKLot](https://www.kaggle.com/datasets/blanderbuss/parking-lot-dataset/), dimana kami mengambil data PKLotSegmented yang berisi potongan gambar tempat parkir yang diberikan label `empty` dan `occupied`.
+
 ---
 
 ## Anggota Kelompok
